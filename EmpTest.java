@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class EmpTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
 		System.out.print("Enter employee ID:");
 		int empId=sc.nextInt();
